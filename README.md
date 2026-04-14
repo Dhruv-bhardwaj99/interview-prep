@@ -1,4 +1,3 @@
-# interview-prep
 # LeetCode Solutions
 
 This repository contains my LeetCode and interview preparation solutions.
