@@ -1,4 +1,4 @@
-package medium;
+// package medium;
 
 import java.util.HashMap;
 class Solution {
